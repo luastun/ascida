@@ -4,3 +4,4 @@ websocket_server
 winsdk
 asyncio
 flask
+dotenv
