@@ -3,3 +3,4 @@ subprocess
 websocket_server
 winsdk
 asyncio
+flask
